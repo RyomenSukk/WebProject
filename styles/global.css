@@ -97,8 +97,6 @@ button:hover {
   color: #999;
   padding: 32px 0;
 }
-/* เพิ่มเติมจาก global.css ที่มีอยู่แล้ว */
-
 /* สไตล์สำหรับหัวข้อ Now Playing */
 .now-playing {
   color: #1db954;
@@ -109,7 +107,6 @@ button:hover {
   background-color: rgba(29, 185, 84, 0.1);
   border-radius: 8px;
 }
-
 /* สไตล์สำหรับรายการเพลง */
 .song-list-container {
   margin-top: 30px;
@@ -171,7 +168,7 @@ body {
 .close-button-container button:hover {
   background-color: #555;
 }
-/* global.css - ส่วนที่เพิ่มเติมสำหรับเลย์เอาท์แนวนอน */
+/*เลย์เอาท์แนวนอน */
 
 /* Reset ค่าเริ่มต้น */
 
