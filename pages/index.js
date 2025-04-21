@@ -1,6 +1,6 @@
+/* eslint-disable @next/next/no-img-element */
+/* eslint-disable react/no-unescaped-entities */
 import { useEffect, useState } from "react";
-// ต้องแน่ใจว่าได้มีการ import global.css ในไฟล์ที่เหมาะสม
-// เช่น ใน _app.js หรือ layout.js ด้วยคำสั่ง import '../styles/global.css';
 
 export default function Home() {
   const [songs, setSongs] = useState([]);
